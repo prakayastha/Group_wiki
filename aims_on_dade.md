@@ -4,7 +4,7 @@ Compiling FHI-aims on Dade was even simpler than [compiling on Oswald](./aims_on
 ```
 git clone https://aims-git.rz-berlin.mpg.de/aims/FHIaims.git
 ```
-This requires an account on aims club and the git clone requires the users password. 
+This requires an account on [aims club] (https://fhi-aims.org/get-the-code-menu/aimsclub-registration) and the git clone requires the users password. 
 
 The nice thing about having the Intel oneAPI is that all the compilers are always latest and up to date. 
 
